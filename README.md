@@ -1,4 +1,4 @@
 ytproxy
 =======
 
-HTTP Proxy for video source supported by youtube-dl
+HTTP Proxy for video sources supported by youtube-dl
