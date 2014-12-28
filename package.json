@@ -1,0 +1,9 @@
+{
+  "name": "ytproxy",
+  "version": "0.0.1",
+  "description": "Send a video URL to the proxy and get an MP4 video back.",
+  "dependencies": {
+    "youtube-dl": "~1.6.0",
+    "url": "~0.10.1"
+  }
+}
